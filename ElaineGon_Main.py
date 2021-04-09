@@ -9,8 +9,7 @@ def main():
     your_name = input("enter your name ")
 
     print("Welcome" + " " + your_name + "," + " " "to my Integration project.")
-    print("This program will showcase all i have learned from my COP1500 class, "
-          "HackerRank, and POGILS 1-5.")
+    print("This program will showcase all i have learned from my COP1500 class, HackerRank, and POGILS 1-15.")
     print()
     print(int("w = 2.01"))
     print("x = 3")
